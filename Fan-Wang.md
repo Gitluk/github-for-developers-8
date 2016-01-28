@@ -2,4 +2,3 @@
 - Virginia
 - Authentic Chinese Food
 - Badminton
-- favorate color
