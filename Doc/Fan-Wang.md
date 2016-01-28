@@ -2,3 +2,4 @@
 - Virginia
 - Badminton
 - Purple
+** favorite color **: Purple
